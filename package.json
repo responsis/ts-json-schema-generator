@@ -1,5 +1,5 @@
 {
-  "name": "ts-json-schema-generator",
+  "name": "@responsis/ts-json-schema-generator",
   "version": "2.3.0-cascade",
   "description": "Generate JSON schema from your Typescript sources",
   "keywords": [

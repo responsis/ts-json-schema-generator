@@ -60,6 +60,10 @@ export class BasicAnnotationsReader implements AnnotationsReader {
 
         // New since draft 2019-09:
         "deprecated",
+
+        // GraphQL
+        "writable",
+        "mutable",
     ]);
 
     public constructor(private extraTags?: Set<string>) {}
